@@ -13,4 +13,4 @@ let voteAddress = "0x9e9f99D5e5a9263F57B1747ecc55155A09390e3E";
 
 const oneDay = 24 * 60 * 60;
 var gnetId = 1;
-let url = "http://flladminfil.partnerprogram.xyz/";
+let url = "https://flladminfil.partnerprogram.xyz/";
